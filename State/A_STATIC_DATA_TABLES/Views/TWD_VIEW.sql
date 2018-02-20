@@ -1,0 +1,2 @@
+CREATE OR REPLACE FORCE VIEW a_static_data_tables.twd_view ("ID",colsimply,colcomplicated,nextcharfield) AS
+select "ID","COLSIMPLY","COLCOMPLICATED","NEXTCHARFIELD" from a_static_data_tables.TABLE_WITHOUT_DATE;

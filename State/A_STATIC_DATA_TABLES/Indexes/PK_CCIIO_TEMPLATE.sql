@@ -1,0 +1,1 @@
+CREATE UNIQUE INDEX a_static_data_tables.pk_cciio_template ON a_static_data_tables.cciio_template_2_1("INDICATOR");
